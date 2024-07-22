@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "ethereum-waffle": "^4.0.10",
+    "hardhat": "^2.22.6"
+  }
+}
